@@ -1,6 +1,6 @@
 package introToStrings;
 import java.util.Scanner;
-public class introToStrings 
+public class IntroToStrings 
 {
 
 	
